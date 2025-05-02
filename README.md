@@ -24,7 +24,7 @@ This is a simple To Do App that uses API auth and CRUD operations using the foll
   ```
 4. Set up the environment variables in `todo-backend` by copying the example:
   ```
-  cp .env.example .env
+  copy .env.example .env
   php artisan key:generate
   ```
 5. Configure `.env` files in both to `todo-backend` and `todo-frontend` to correct database and port connection
