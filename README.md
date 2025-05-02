@@ -36,7 +36,7 @@ This is a simple To Do App that uses API auth and CRUD operations using the foll
   ```
   php artisan db:seed
   ```
-    Now, you can log in with the ff credentials for testing:
+  Now, you can log in with the ff credentials for testing:
    - **Email**: test@example.com
    - **Password**: password
 8. Open XAMPP, start **MySQL**
