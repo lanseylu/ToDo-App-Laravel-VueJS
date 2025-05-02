@@ -22,12 +22,12 @@ This is a simple To Do App that uses API auth and CRUD operations using the foll
   cd todo-app-frontend
   npm install
   ```
-4. Set up the environment variables by copying the example:
+4. Set up the environment variables in `todo-backend` by copying the example:
   ```
   cp .env.example .env
   php artisan key:generate
   ```
-5. Configure `.env` files in both to `to-do-backend` and `to-do-frontend` to correct database and port connection
+5. Configure `.env` files in both to `todo-backend` and `todo-frontend` to correct database and port connection
 6. **Run Migrations**
   ```
   php artisan migrate
