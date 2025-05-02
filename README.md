@@ -32,9 +32,9 @@ This is a simple To Do App that uses API auth and CRUD operations using the foll
   ```
   php artisan migrate
   ```
-7. **Run UserSeeders**
+7. **Run Seeders** To populate the db with users
   ```
-  php artisan db:seed --class=UserSeeder
+  php artisan db:seed
   ```
     Now, you can log in with the ff credentials for testing:
    - **Email**: test@example.com
