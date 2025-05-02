@@ -12,6 +12,9 @@ This is a simple To Do App that uses API auth and CRUD operations using the foll
 
 ## Steps
 1. Clone the repo
+  ```
+  git clone https://github.com/lanseylu/ToDo-App-Laravel-VueJS.git
+  ```
 2. Install backend dependencies
   ```
   cd todo-app-backend
