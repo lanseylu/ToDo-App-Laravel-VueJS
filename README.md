@@ -48,4 +48,4 @@ This is a simple To Do App that uses API auth and CRUD operations using the foll
   ```
   npm run dev
   ```
-11. Click the frontend server link, and the open should be there.
+11. Click the frontend server link, and you should be able to use the app.
